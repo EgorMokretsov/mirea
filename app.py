@@ -1,4 +1,4 @@
-APP_NAME = "Git Lab person3"
+APP_NAME = "Git Lab person1 + person3"
 
 
 def main():
